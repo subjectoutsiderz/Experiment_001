@@ -1,0 +1,21 @@
+echo "# Experiment_000" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/subjectoutsiderz/Experiment_000.git
+git push -u origin main
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Site Teste</title>
+</head>
+<body>
+
+<h1>Meu primeiro site</h1>
+
+<img src="2d3.webp" width="300">
+
+</body>
+</html>
